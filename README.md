@@ -1,5 +1,5 @@
 # bootcamp95
-Bootcamp'teki 95. takım olarak repository alanımız.
+Bootcamp'teki 95. takım olarak repository alanımız. Bu bootcampte ilk önce bir kitap okuma uygulaması yapmayı düşünürken teknik aksaklıklardan dolayı sonrasında projeyi çocuklara yönelik bir matematik oyununa çevirdik. 
 
 # **Takım İsmi**
 
