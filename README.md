@@ -23,9 +23,9 @@ kamp95
 - QuizzApp çocuklar için çeşitli işlemleri yapabilecekleri ve akıllarında kalacak şekilde tasarlanmış bir uygulamadır.
 
 ## Ürün Özellikleri
-    -4 işlem sorularına göre düzenlenmiştir.
+    - 4 işlem sorularına göre düzenlenmiştir.
     - Akılda kalıcı tasarımıyla çocukların ilgisini çekecek şekilde yapılmıştır.
-    -Eğitici ve Öğreticidir.
+    - Eğitici ve Öğreticidir.
     
  
 
